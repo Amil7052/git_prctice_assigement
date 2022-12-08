@@ -1,2 +1,2 @@
-# git_prctice_assigement
+# git_practice_assigement
 check prime 
